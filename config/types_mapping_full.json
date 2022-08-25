@@ -1,0 +1,10 @@
+{
+	"age": "integer",
+	"create_date": "timestamp",
+	"update_date": "timestamp",
+	"id": "integer",
+	"name": "string",
+	"email" : "string",
+	"phone" : "string",
+	"address" : "string"
+}

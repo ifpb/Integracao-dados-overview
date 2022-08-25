@@ -1,0 +1,3 @@
+id,internal_id,fullname,email_address,telephone,address,age,create_date,update_date
+3,1,Spongebob Squarepants,spongebob.squarepants@company.ai,(11) 98765-4321,"122 Conch Street, Bikini Bottom, Pacific Ocean",13,2018-05-19 04:07:06.854752,2018-05-19 05:08:07.964752
+3,1,Spongebob Squarepants,spongebob.squarepants@company.ai,(11) 91234-5678,"124 Conch Street, Bikini Bottom, Pacific Ocean",13,2018-05-19 04:07:06.854752,2018-05-19 04:07:06.854752

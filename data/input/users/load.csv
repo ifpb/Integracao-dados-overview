@@ -1,0 +1,5 @@
+id,email,name,phone,address,age,create_date,update_date
+1,david.lynch@company.ai,David Lynch,(11) 99999-9997,"Mulholland Drive, Los Angeles, CA, US",72,2018-03-03 18:47:01.954752,2018-03-03 18:47:01.954752
+1,david.lynch@company.ai,David Lynch,(11) 99999-9998,"Mulholland Drive, Los Angeles, CA, US",72,2018-03-03 18:47:01.954752,2018-04-14 17:09:48.558151
+2,sherlock.holmes@company.ai,Sherlock Holmes,(11) 94815-1623,"221B Baker Street, London, UK",34,2018-04-21 20:21:24.364752,2018-04-21 20:21:24.364752
+1,david.lynch@company.ai,David Lynch,(11) 99999-9999,"Mulholland Drive, Los Angeles, CA, US",72,2018-03-03 18:47:01.954752,2018-05-23 10:13:59.594752
